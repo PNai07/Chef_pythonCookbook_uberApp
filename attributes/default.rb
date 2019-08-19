@@ -1,1 +1,1 @@
-default['python']['version'] = '2.7.0.x'
+default['python']['version'] = '3.x.x'
